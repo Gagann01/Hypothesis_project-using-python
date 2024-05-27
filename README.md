@@ -36,7 +36,7 @@ You can install the required libraries using pip:
 
 ```bash
 pip install numpy pandas matplotlib seaborn scipy
-
+```
 ## Dataset
 
 The dataset used in this project contains performance metrics for two website themes: Light Theme and Dark Theme. The key metrics include Click Through Rate, Conversion Rate, Bounce Rate, Scroll Depth, Age, Location, Session Duration, Purchases, and Added to Cart status.
